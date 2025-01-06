@@ -1,0 +1,2 @@
+Hi from file2.txt
+I am on b1 branch
